@@ -63,7 +63,6 @@ graphene-water-interface/
 - Python 3.x
 - xTB (https://github.com/grimme-lab/xtb)
 - Packmol (https://github.com/m3g/packmol)
-- Fortran compiler (`gfortran`)
 - Visualization tools: Chemcraft, VMD, GaussView (optional)
 
 ### Setup
@@ -141,7 +140,7 @@ This work is based on methods using GFN-FF and GFN2-xTB force fields developed b
 - Simulation under NVT ensemble with adjustable parameters
 - Periodic boundary conditions for extended systems
 
-More information on the methods can be found in the documentation and at [https://xtb-docs.readthedocs.io](https://xtb-docs.readthedocs.io).
+More information on the methods can be found in the documentation and at https://xtb-docs.readthedocs.io/en/latest/index.html.
 
 ---
 
@@ -167,21 +166,8 @@ packmol < inputfile.inp
 # Launch simulation
 xtb interfaz.xyz --input md.inp --md
 ```
-
 ---
 
-## Contribution
-
-Contributions are welcome! To contribute:
-
-1. Fork the repository  
-2. Create a new branch: `git checkout -b feature/new-feature`  
-3. Make your changes  
-4. Commit: `git commit -am 'Add new feature'`  
-5. Push: `git push origin feature/new-feature`  
-6. Open a Pull Request
-
----
 
 ## License
 
