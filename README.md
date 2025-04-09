@@ -1,6 +1,6 @@
 # Molecular Dynamics of Graphene-Water Interface
 
-This repository contains tools and procedures to build and simulate a graphene-water interface using molecular dynamics (MD) methods with **xTB**, **GFN-FF**, and **Packmol**.
+This repository contains tools and procedures to build and simulate a graphene-water interface using molecular dynamics (MD) methods with **xTB**, **GFN-FF**, **GFN2-xTB**, and **Packmol**.
 
 ## Table of Contents
 - [Folder Structure](#folder-structure)  
